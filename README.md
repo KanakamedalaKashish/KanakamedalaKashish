@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@k7302kashish" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_3670151?term=twitter&page=1&position=2&origin=search&related_id=3670151" alt="@k7302kashish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanakamedala kashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanakamedala kashish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kanakamedala-kashish-59019a238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanakamedala kashish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
