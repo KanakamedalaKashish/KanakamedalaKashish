@@ -4,15 +4,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakamedalakashish&label=Profile%20views&color=0e75b6&style=flat" alt="kanakamedalakashish" /> </p>
 
-- 🔭 I’m currently working on **Book Recommend**
+About Me😎
+As a beginner frontend developer, I'm passionate about creating visually appealing and interactive websites. I am excited to learn and explore the various technologies and concepts that make up the frontend development stack. This repository serves as my learning journal, where I share my experiences, challenges, and victories on this exciting journey.
+
+Learning Goals
+- ⚡Gain a solid understanding of HTML, CSS, and JavaScript.
+
+- ⚡Master the fundamentals of frontend frameworks like React or Three.js.
+
+- ⚡Learn responsive web design techniques for building mobile-friendly websites.
+
+🌟Also
+
+- 📚 I’m currently working on **Book Recommend**
 
 - 🌱 I’m currently learning **Advance CSS**
 
-- 💬 Ask me about **Agile**
+- 👟 Ask me about **Agile**
 
 - 📫 How to reach me **kashish7302@gmail.com**
 
-- ⚡ Fun fact **WINDOWS: Will Install Needless Data On Whole System.APPLE: Arrogance Produces Profit-Losing Entity. IBM: I Blame Microsoft. MICROSOFT: Most Intelligent Customers Realize Our Software Only Fools Teenagers.**
+- 😅 Fun fact **WINDOWS: Will Install Needless Data On Whole System.APPLE: Arrogance Produces Profit-Losing Entity. IBM: I Blame Microsoft. MICROSOFT: Most Intelligent Customers Realize Our Software Only Fools Teenagers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
